@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <TouchableOpacity accessibilityRole="button">
-        <Text> Should say button in finnish</Text>
+        <Text>Should say button in finnish</Text>
       </TouchableOpacity>
       <StatusBar style="auto" />
     </View>
